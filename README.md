@@ -14,4 +14,4 @@ Every examples are maden with Azure studio, below the list of the portals:
 This example shows the capability of Azure Document to extract data from a identity document. Nothing coordinate has been inserted for specify the position of source's data. All position of data has been managed from AI models that return the exact type of data and its meaning (for example name, surname, ect)
 
 
-![Uploading VideoExtractPersonalInfo.gif…]()
+![VideoExtractPersonalInfo](https://github.com/user-attachments/assets/a6036b24-008e-409c-b5cc-6eb6ae38773f)
